@@ -1,0 +1,27 @@
+# OS dependent files
+.DS_Store
+.Spotlight-V100
+.Trashes
+Thumbs.db
+Desktop.ini
+*~
+# Thumbnails
+._*
+
+# Gradle files
+build/
+.gradle/
+
+# Maven files
+target/
+
+# Eclipse files
+.project
+.metadata
+.classpath
+.settings/
+.loadpath
+bin/
+
+
+*.log*
