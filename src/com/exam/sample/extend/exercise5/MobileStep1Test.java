@@ -1,4 +1,4 @@
-package com.lgcns.sample.extend.exercise5;
+package com.exam.sample.extend.exercise5;
 
 /*
  * 핸드폰 사용 관리 Step1

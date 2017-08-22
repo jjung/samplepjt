@@ -1,4 +1,4 @@
-package com.lgcns.sample.total2.exercise2;
+package com.exam.sample.total2.exercise2;
 
 /*
  * 디지털 루트

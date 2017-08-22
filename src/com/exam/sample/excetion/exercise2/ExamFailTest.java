@@ -1,4 +1,4 @@
-package com.lgcns.sample.excetion.exercise2;
+package com.exam.sample.excetion.exercise2;
 
 import java.util.ArrayList;
 

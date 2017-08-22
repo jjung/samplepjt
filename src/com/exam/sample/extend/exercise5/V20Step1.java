@@ -1,4 +1,4 @@
-package com.lgcns.sample.extend.exercise5;
+package com.exam.sample.extend.exercise5;
 
 public class V20Step1 extends MobileStep1 {
     

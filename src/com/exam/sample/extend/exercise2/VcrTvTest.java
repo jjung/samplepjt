@@ -1,4 +1,4 @@
-package com.lgcns.sample.extend.exercise2;
+package com.exam.sample.extend.exercise2;
 
 /*
  * 비디오비전 만들기

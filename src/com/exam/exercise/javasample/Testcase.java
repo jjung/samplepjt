@@ -1,4 +1,4 @@
-package com.lgcns.exercise.javasample;
+package com.exam.exercise.javasample;
 
 public class Testcase {
 	

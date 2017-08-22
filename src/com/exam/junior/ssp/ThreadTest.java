@@ -1,4 +1,4 @@
-package com.lgcns.junior.ssp;
+package com.exam.junior.ssp;
 
 public class ThreadTest {
 

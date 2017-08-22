@@ -1,4 +1,4 @@
-package com.lgcns.sample.extend.example.fundaccountstep2;
+package com.exam.sample.extend.example.fundaccountstep2;
 
 public class AccountStep2Test {
     

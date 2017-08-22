@@ -1,4 +1,4 @@
-package com.lgcns.sample.excetion.exercise4;
+package com.exam.sample.excetion.exercise4;
 
 class TorrentFileDownload {
 	private int progress = 0;

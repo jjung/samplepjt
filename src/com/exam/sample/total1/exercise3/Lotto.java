@@ -1,4 +1,4 @@
-package com.lgcns.sample.total1.exercise3;
+package com.exam.sample.total1.exercise3;
 
 import java.util.Arrays;
 

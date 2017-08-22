@@ -1,4 +1,4 @@
-package com.lgcns.sample.extend.exercise6;
+package com.exam.sample.extend.exercise6;
 
 public class Magazine extends Book {
 	public Magazine(int mngNumber, String title, String author) {

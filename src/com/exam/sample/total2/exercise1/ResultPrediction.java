@@ -1,4 +1,4 @@
-package com.lgcns.sample.total2.exercise1;
+package com.exam.sample.total2.exercise1;
 
 import java.io.IOException;
 

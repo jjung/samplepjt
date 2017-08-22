@@ -1,4 +1,4 @@
-package com.lgcns.sample.extend.exercise2;
+package com.exam.sample.extend.exercise2;
 
 public class VcrTv extends Tv{
 	Vcr vcr = new Vcr();

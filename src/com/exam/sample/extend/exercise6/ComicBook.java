@@ -1,4 +1,4 @@
-package com.lgcns.sample.extend.exercise6;
+package com.exam.sample.extend.exercise6;
 
 public class ComicBook extends Book {
 	public ComicBook(int mngNumber, String title, String author) {

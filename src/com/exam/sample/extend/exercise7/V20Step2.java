@@ -1,4 +1,4 @@
-package com.lgcns.sample.extend.exercise7;
+package com.exam.sample.extend.exercise7;
 
 public class V20Step2 extends MobileStep2 implements GooPlay {
     

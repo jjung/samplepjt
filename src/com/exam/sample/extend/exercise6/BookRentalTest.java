@@ -1,4 +1,4 @@
-package com.lgcns.sample.extend.exercise6;
+package com.exam.sample.extend.exercise6;
 
 /*
  * 도서 대여 연체료

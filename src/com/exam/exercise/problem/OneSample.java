@@ -1,4 +1,4 @@
-package com.lgcns.exercise.problem;
+package com.exam.exercise.problem;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

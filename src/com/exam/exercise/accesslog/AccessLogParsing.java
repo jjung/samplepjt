@@ -1,4 +1,4 @@
-package com.lgcns.exercise.accesslog;
+package com.exam.exercise.accesslog;
 
 public class AccessLogParsing {
 
@@ -14,7 +14,7 @@ public class AccessLogParsing {
     }
 
     // --------------------------------------
-    // ¾Æ·¡ ¸Þ¼Òµå¿¡ ·ÎÁ÷À» ±¸ÇöÇÏ½Ã¿À.
+    // ï¿½Æ·ï¿½ ï¿½Þ¼Òµå¿¡ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ï½Ã¿ï¿½.
     public void parse( String[] parseLog ) {
     	
     	String logLine = null;

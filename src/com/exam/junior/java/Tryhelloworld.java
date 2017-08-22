@@ -1,4 +1,4 @@
-package com.lgcns.junior.java;
+package com.exam.junior.java;
 
 public class Tryhelloworld {
 	public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.lgcns.sample.extend.exercise4;
+package com.exam.sample.extend.exercise4;
 
 /*
  * 펀드 계좌 출력하기3

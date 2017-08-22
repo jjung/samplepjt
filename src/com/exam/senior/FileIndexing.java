@@ -1,4 +1,4 @@
-package com.lgcns.senior;
+package com.exam.senior;
 
 public class FileIndexing {
 

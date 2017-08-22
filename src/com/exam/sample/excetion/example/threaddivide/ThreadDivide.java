@@ -1,4 +1,4 @@
-package com.lgcns.sample.excetion.example.threaddivide;
+package com.exam.sample.excetion.example.threaddivide;
 
 public class ThreadDivide implements Runnable {
 	public void run() {

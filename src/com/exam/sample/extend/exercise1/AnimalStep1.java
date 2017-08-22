@@ -1,4 +1,4 @@
-package com.lgcns.sample.extend.exercise1;
+package com.exam.sample.extend.exercise1;
 
 public class AnimalStep1 {
     

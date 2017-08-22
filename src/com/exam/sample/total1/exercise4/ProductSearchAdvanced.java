@@ -1,4 +1,4 @@
-package com.lgcns.sample.total1.exercise4;
+package com.exam.sample.total1.exercise4;
 
 import java.util.HashMap;
 import java.util.Map;

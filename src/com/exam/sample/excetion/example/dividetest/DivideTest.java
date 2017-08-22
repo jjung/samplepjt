@@ -1,4 +1,4 @@
-package com.lgcns.sample.excetion.example.dividetest;
+package com.exam.sample.excetion.example.dividetest;
 
 /*
  * [따라하기] 나누기 연산하기

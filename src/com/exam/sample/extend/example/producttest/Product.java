@@ -1,4 +1,4 @@
-package com.lgcns.sample.extend.example.producttest;
+package com.exam.sample.extend.example.producttest;
 
 import java.text.NumberFormat;
 import java.util.Locale;

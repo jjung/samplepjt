@@ -1,10 +1,10 @@
-package com.lgcns.exercise.triplegame;
+package com.exam.exercise.triplegame;
 
 
 public class TripleGame {
 
     // --------------------------------------
-    // ¾Æ·¡ ¸Þ¼Òµå¿¡ ·ÎÁ÷À» ±¸ÇöÇÏ½Ã¿À.
+    // ï¿½Æ·ï¿½ ï¿½Þ¼Òµå¿¡ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ï½Ã¿ï¿½.
     public static int countTriple() {
         int cnt = 0;
         String contValue = "";

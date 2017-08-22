@@ -1,4 +1,4 @@
-package com.lgcns.sample.extend.example.fundaccountstep1;
+package com.exam.sample.extend.example.fundaccountstep1;
 
 /*
  * [따라하기] 펀드 계좌 출력하기1

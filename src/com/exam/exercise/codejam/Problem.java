@@ -1,4 +1,4 @@
-package com.lgcns.exercise.codejam;
+package com.exam.exercise.codejam;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

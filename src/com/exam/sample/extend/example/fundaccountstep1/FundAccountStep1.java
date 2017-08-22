@@ -1,4 +1,4 @@
-package com.lgcns.sample.extend.example.fundaccountstep1;
+package com.exam.sample.extend.example.fundaccountstep1;
 
 public class FundAccountStep1 extends AccountStep1 {
 	private double earningRate;

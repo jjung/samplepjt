@@ -1,4 +1,4 @@
-package com.lgcns.sample.extend.example.fundaccountstep2;
+package com.exam.sample.extend.example.fundaccountstep2;
 
 /*
  * openAccount() 메소드 오버라이딩

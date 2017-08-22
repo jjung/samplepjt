@@ -1,4 +1,4 @@
-package com.lgcns.sample.extend.exercise2;
+package com.exam.sample.extend.exercise2;
 
 public class Vcr {
 	private boolean power;

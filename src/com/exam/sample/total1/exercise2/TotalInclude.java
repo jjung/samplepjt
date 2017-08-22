@@ -1,4 +1,4 @@
-package com.lgcns.sample.total1.exercise2;
+package com.exam.sample.total1.exercise2;
 
 public class TotalInclude {
 	public static void main(String[] args) {

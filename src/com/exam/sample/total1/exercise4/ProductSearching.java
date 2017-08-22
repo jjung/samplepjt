@@ -1,4 +1,4 @@
-package com.lgcns.sample.total1.exercise4;
+package com.exam.sample.total1.exercise4;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -21,14 +21,14 @@ public class ProductSearching {
 		
 		Scanner scan = new Scanner(System.in);
 		
-		System.out.println("Á¦Ç°ÄÚµå¸¦ ÀÔ·ÂÇÏ¼¼¿ä>");
+		System.out.println("ï¿½ï¿½Ç°ï¿½Úµå¸¦ ï¿½Ô·ï¿½ï¿½Ï¼ï¿½ï¿½ï¿½>");
 		String input = scan.next();
 		while (!input.equals("0")) {
 
 			getProductList(input);
 			
 			
-			System.out.print("Á¦Ç°ÄÚµå¸¦ ÀÔ·ÂÇÏ¼¼¿ä> ");
+			System.out.print("ï¿½ï¿½Ç°ï¿½Úµå¸¦ ï¿½Ô·ï¿½ï¿½Ï¼ï¿½ï¿½ï¿½> ");
 			input = scan.next();
 		}
 		scan.close();
@@ -71,6 +71,6 @@ class Product1 {
 	}
 
 	public String toString() {
-		return "Á¦Ç°ÄÚµå: " + this.code + " Á¦Ç°¸í: " + this.description + " °¡°Ý: " + this.price;
+		return "ï¿½ï¿½Ç°ï¿½Úµï¿½: " + this.code + " ï¿½ï¿½Ç°ï¿½ï¿½: " + this.description + " ï¿½ï¿½ï¿½ï¿½: " + this.price;
 	}
 }

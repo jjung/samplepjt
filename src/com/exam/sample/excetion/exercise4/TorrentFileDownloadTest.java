@@ -1,4 +1,4 @@
-package com.lgcns.sample.excetion.exercise4;
+package com.exam.sample.excetion.exercise4;
 
 /*
  * 토렌트로 파일 다운로드

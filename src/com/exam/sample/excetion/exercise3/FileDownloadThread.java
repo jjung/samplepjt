@@ -1,4 +1,4 @@
-package com.lgcns.sample.excetion.exercise3;
+package com.exam.sample.excetion.exercise3;
 
 class FileDownloadThread implements Runnable {
 	private String fileName;

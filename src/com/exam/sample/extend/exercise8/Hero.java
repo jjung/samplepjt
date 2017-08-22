@@ -1,4 +1,4 @@
-package com.lgcns.sample.extend.exercise8;
+package com.exam.sample.extend.exercise8;
 
 public class Hero implements CanFly, CanSwim, CanFight {
     

@@ -1,4 +1,4 @@
-package com.lgcns.sample.extend.example.producttest;
+package com.exam.sample.extend.example.producttest;
 
 /*
  * [따라하기] 가전제품 구매하기

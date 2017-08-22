@@ -1,4 +1,4 @@
-package com.lgcns.senior.ssp;
+package com.exam.senior.ssp;
 
 import java.io.FileInputStream;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package com.lgcns.sample.total2.exercise4;
+package com.exam.sample.total2.exercise4;
 
 /*
  * 성냥개비는 숫자를 나타내기에 아주 이상적인 도구이다. 보통 십진수를 성냥개비로 표현하는 방법은 다음과 같다.

@@ -1,4 +1,4 @@
-package com.lgcns.sample.excetion.exercise1;
+package com.exam.sample.excetion.exercise1;
 
 /*
  * 두 개의 배열 나누기

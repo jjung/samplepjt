@@ -1,4 +1,4 @@
-package com.lgcns.sample.total2.exercise3;
+package com.exam.sample.total2.exercise3;
 
 public class SalesMan extends Regular {
 	private int sales;

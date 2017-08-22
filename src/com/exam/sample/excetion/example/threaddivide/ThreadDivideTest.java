@@ -1,4 +1,4 @@
-package com.lgcns.sample.excetion.example.threaddivide;
+package com.exam.sample.excetion.example.threaddivide;
 
 /*
  * [따라하기] 쓰레드로 나누기 연산하기

@@ -1,4 +1,4 @@
-package com.lgcns.sample.javaapi;
+package com.exam.sample.javaapi;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

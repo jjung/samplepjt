@@ -1,4 +1,4 @@
-package com.lgcns.sample.excetion.exercise3;
+package com.exam.sample.excetion.exercise3;
 
 /*
  * 파일 다운로드 동시 진행 표시

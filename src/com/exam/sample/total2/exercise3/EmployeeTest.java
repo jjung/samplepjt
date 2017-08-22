@@ -1,4 +1,4 @@
-package com.lgcns.sample.total2.exercise3;
+package com.exam.sample.total2.exercise3;
 
 /*
  * 직원 급료 계산해서 출력하기

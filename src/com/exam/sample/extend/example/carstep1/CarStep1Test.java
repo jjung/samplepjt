@@ -1,4 +1,4 @@
-package com.lgcns.sample.extend.example.carstep1;
+package com.exam.sample.extend.example.carstep1;
 
 /*
  * [따라하기] 차량 관리1

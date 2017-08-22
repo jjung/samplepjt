@@ -1,4 +1,4 @@
-package com.lgcns.sample.extend.exercise3;
+package com.exam.sample.extend.exercise3;
 
 /*
  * 동물 특성 출력하기2

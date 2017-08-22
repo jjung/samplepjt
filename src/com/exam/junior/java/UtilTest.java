@@ -1,4 +1,4 @@
-package com.lgcns.junior.java;
+package com.exam.junior.java;
 
 import java.util.Arrays;
 import java.util.Collections;
